@@ -1,0 +1,44 @@
+﻿<Window x:Class="MarioGame.level"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MarioGame"
+        mc:Ignorable="d"
+        Title="level" Height="500" Width="1500">
+    <Canvas Name="MyCanvas" KeyDown="CanvasKeyDown" Focusable="True" Background="LightBlue">
+
+        <Rectangle Name="ground" Width="1500" Height="85" Fill="Yellow" Canvas.Top="399" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="mario" Tag="ghost" Width="30" Height="30" Fill="Red" Canvas.Left="191" Canvas.Top="145"/>
+        <Rectangle Name="pipe" Tag="ghost" Width="80" Height="140" Fill="Green" Canvas.Left="1093" Canvas.Top="256" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Rectangle Name="pipe1" Tag="ghost" Width="65" Height="96" Fill="Green" Canvas.Left="934" Canvas.Top="300" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <Rectangle Name="bricks" Tag="ghost" Width="43" Height="194" Fill="Brown" Canvas.Left="554" Canvas.Top="165" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.807"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Ellipse x:Name="coin" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="463" Canvas.Top="349" />
+        <Ellipse x:Name="coin1" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="599" Canvas.Top="349" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Ellipse x:Name="coin2" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="323" Canvas.Top="349" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Ellipse x:Name="coin3" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="942" Canvas.Top="250" />
+        <Ellipse x:Name="coin4" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="1108" Canvas.Top="206" />
+        <Ellipse x:Name="coin5" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="1237" Canvas.Top="349" />
+        <Ellipse x:Name="coin6" Width="50" Height="50" Fill="#FFFF00" Canvas.Left="759" Canvas.Top="349" />
+        <Label x:Name="lblScore" Content="SCORE:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="106"/>
+
+        <Rectangle Name="enemy" Tag="ghost" Width="30" Height="30" Fill="Blue" Canvas.Left="542" Canvas.Top="369" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="enemy2" Tag="ghost" Width="30" Height="30" Fill="Blue" Canvas.Left="682" Canvas.Top="369" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="enemy3" Tag="ghost" Width="30" Height="30" Fill="Blue" Canvas.Left="404" Canvas.Top="369" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="enemy4" Tag="ghost" Width="30" Height="30" Fill="Blue" Canvas.Left="1328" Canvas.Top="369" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Rectangle Name="enemy5" Tag="ghost" Width="30" Height="30" Fill="Blue" Canvas.Left="251" Canvas.Top="369" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Label Content="Lives" Canvas.Left="1422" Canvas.Top="10" Height="28" Width="68"/>
+
+    </Canvas>
+</Window>
