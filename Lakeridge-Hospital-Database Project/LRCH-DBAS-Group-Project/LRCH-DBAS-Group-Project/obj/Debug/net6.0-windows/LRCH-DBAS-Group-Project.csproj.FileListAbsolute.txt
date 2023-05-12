@@ -1,0 +1,72 @@
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.exe
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.deps.json
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.runtimeconfig.json
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.pdb
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.csproj.AssemblyReference.cache
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project_MarkupCompile.cache
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project_MarkupCompile.lref
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.g.resources
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.AssemblyInfoInputs.cache
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.AssemblyInfo.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.csproj.CoreCompileInputs.cache
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\refint\LRCH-DBAS-Group-Project.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.pdb
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.genruntimeconfig.cache
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\ref\LRCH-DBAS-Group-Project.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\PhysicianPatientView.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\PhysicianPatientView.baml
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPhysician.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPhysician.baml
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPatient.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPatient.baml
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.exe
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.deps.json
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.runtimeconfig.json
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\LRCH-DBAS-Group-Project.pdb
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.csproj.AssemblyReference.cache
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPatient.g.cs
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPhysician.g.cs
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\PhysicianPatientView.g.cs
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\App.g.cs
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project_MarkupCompile.cache
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project_MarkupCompile.lref
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPatient.baml
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\AddPhysician.baml
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\PhysicianPatientView.baml
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.g.resources
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.AssemblyInfoInputs.cache
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.AssemblyInfo.cs
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.csproj.CoreCompileInputs.cache
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.csproj.CopyComplete
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\refint\LRCH-DBAS-Group-Project.dll
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.pdb
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.genruntimeconfig.cache
+D:\Contents Of External\School\Fourth Term\Database\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\ref\LRCH-DBAS-Group-Project.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\PhysicianLogin.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\RoomUtilizationDashboard.g.cs
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\PhysicianLogin.baml
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\RoomUtilizationDashboard.baml
+C:\Users\hoppe\source\repos\LRCH-DBAS-Group-Project\LRCH-DBAS-Group-Project\obj\Debug\net6.0-windows\LRCH-DBAS-Group-Project.csproj.CopyComplete

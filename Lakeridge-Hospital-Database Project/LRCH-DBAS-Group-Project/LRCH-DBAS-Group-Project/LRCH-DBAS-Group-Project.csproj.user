@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddPatient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddPhysician.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PhysicianLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PhysicianPatientView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RoomUtilizationDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddPatient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddPhysician.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PhysicianLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PhysicianPatientView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RoomUtilizationDashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
