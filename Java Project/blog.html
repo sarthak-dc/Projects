@@ -1,0 +1,63 @@
+<!--Lab 3
+Sarthak Thukran
+21st March, 2023
+Durham College -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="./Content/app.css">
+  <title>Blog</title>
+  <script src="https://code.jquery.com/jquery-3.6.3.min.js"
+	integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
+	crossorigin="anonymous"> </script> 
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">WEBD6201</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link"  href="index.html"><i class="fas fa-home"></i>Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="products.html"><i class="fas fa-project-diagram"></i>Products</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="services.html"><i class="fas fa-map-signs"></i>Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="about.html"><i class="fas fa-info"></i>About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html"><i class="fas fa-envelope"></i>Contact Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="login.html"><i class="fas fa-lock"></i>Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="blog.html"><i class="fas fa-user"></i>Blog</a>
+              </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="blog-column"></div>
+    <div class="container-fluid">
+        <figure>
+            <img id="pixabay-logo" src="./Images/Pixabay-logo.jpg" alt="Pixabay Logo" width="50" height="50">
+            <figcaption>All the above images are provided by Pixabay.</figcaption>
+        </figure>
+    </div>
+    <script src="./Scripts/blog.js"></script>
+    <script src="./Scripts/app.js"></script>
+</body>
+</html>

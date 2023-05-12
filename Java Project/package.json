@@ -1,0 +1,15 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "Lab2 for WEBD6201",
+  "main": "index.js",
+  "author": "Sarthak Thukran",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@popperjs/core": "^2.11.2",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  },
+  "repository": "https://github.com/sarthak-dc/WEBD_6201_05"
+}
